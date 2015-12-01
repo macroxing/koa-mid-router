@@ -1,0 +1,9 @@
+# ignore the WebStorm project management folder
+.idea/
+
+# ignore the folder that include the files what are compiled
+dist/
+
+# ignore .DS_Store
+.DS_Store
+
