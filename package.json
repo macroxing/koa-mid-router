@@ -1,0 +1,25 @@
+{
+  "name": "koa-mid-router",
+  "version": "0.0.1",
+  "description": "a RESTful router middleware for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macroxing/koa-mid-router.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "router",
+    "RESTful"
+  ],
+  "author": "macrox@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macroxing/koa-mid-router/issues"
+  },
+  "homepage": "https://github.com/macroxing/koa-mid-router"
+}
